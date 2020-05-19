@@ -120,3 +120,6 @@ tags
 
 # api key
 key.txt
+
+# Env Variables
+config.env
