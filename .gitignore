@@ -123,3 +123,6 @@ key.txt
 
 # Env Variables
 config.env
+
+# Nodemon.json
+nodemon.json
